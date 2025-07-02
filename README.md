@@ -2,4 +2,4 @@
 
 mi primer repositorio en git hub
 
-i love: heart:,
+me gusta programar
